@@ -12,7 +12,7 @@ const courses = [
   {
     title: 'Introduction to machine learning',
     number: '3',
-    university: 'Udemy',
+    university: 'Udemyy',
   },
 ];
 
