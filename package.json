@@ -1,11 +1,11 @@
 {
-  "name": "harshad165.github.io",
+  "name": "portofolio",
   "version": "3.0.0",
   "homepage": "https://harshad165.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Harshad165/harshad165.github.io.git"
+    "url": "git+https://github.com/Harshad165/harshad165.github.io.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
@@ -58,5 +58,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Harshad165/harshad165.github.io/issues"
+  },
+  "main": "index.js",
+  "author": "",
+  "description": ""
 }
